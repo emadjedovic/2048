@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"gui"},{"l":"konzola"},{"l":"logika"},{"l":"main"},{"l":"save"},{"l":"score"}];updateSearchResults();
